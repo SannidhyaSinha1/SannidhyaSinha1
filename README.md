@@ -175,7 +175,7 @@ Owned the data quality and modeling pipeline for analytical workloads across lar
 
 <div align="center">
 
-<a href="https://leetcode.com/SannidhyaSinha1"><img src="https://img.shields.io/badge/LeetCode-Solve%20%7C%20Optimize%20%7C%20Repeat-7C3AED?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
+<a href="https://leetcode.com/u/KmBbGBNrSX/"><img src="https://img.shields.io/badge/LeetCode-Solve%20%7C%20Optimize%20%7C%20Repeat-7C3AED?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
 <br/>
 <a href="https://www.geeksforgeeks.org/user/SannidhyaSinha1"><img src="https://img.shields.io/badge/GeeksforGeeks-DSA%20%26%20Problem%20Solving-6366F1?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" /></a>
 <br/>
